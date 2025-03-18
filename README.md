@@ -1,8 +1,8 @@
 # 🌟 United
 
 
-## 📌 Description
-A brief overview of the project and what it does.
+## 📌 ONLINE TRAVEL BOOKING
+our website is travel online booking making booking process easier and quick
 
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
@@ -42,3 +42,8 @@ Here is a simple **HTML & CSS** snippet from the project:
     <button class="btn">Click Me!</button>
 </body>
 </html>
+collaborator
+Siya Malik
+Ridhi Jain
+Simran
+Ojasi Sharma
